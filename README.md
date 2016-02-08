@@ -2,13 +2,15 @@
 
 ### It's my first application using ReactJS, NodeJS, MongoDB.
 
-*requirements:
- *NodeJS__
- *MongoDB
+#### requirements:
+ -  NodeJS
+ -  MongoDB
 
 # Also included serverless version
 
-*location: todolist\public\serverless\withoutServer.html__
-*requirements: use simple web server as "web-server-chrome" using base folder "todolist\public\serverless"
+#### location
+-  todolist\public\serverless\withoutServer.html
+#### requirements:
+- use simple web server as "web-server-chrome" using base folder "todolist\public\serverless"
 
 
