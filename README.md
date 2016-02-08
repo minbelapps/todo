@@ -1,10 +1,13 @@
-# Simple TODO LIST Application
+# Simple TO-DO LIST Application
 
 ### It's my first application using ReactJS, NodeJS, MongoDB.
 
 #### requirements:
  -  NodeJS
  -  MongoDB
+
+#### configuration:
+ - basic configuration in "todolist\config\config.js"
 
 # Also included serverless version (only ReactJS)
 
