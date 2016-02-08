@@ -6,11 +6,11 @@
  -  NodeJS
  -  MongoDB
 
-# Also included serverless version
+# Also included serverless version (only ReactJS)
 
 #### location
--  todolist\public\serverless\withoutServer.html
+ - todolist\public\serverless\withoutServer.html
 #### requirements:
-- use simple web server as "web-server-chrome" using base folder "todolist\public\serverless"
+ - use simple web server as "web-server-chrome" using "todolist\public\serverless" as base folder
 
 
